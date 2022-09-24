@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457c019f-e33b-4f52-a8a9-821806a8213a" name="Changes" comment="feat: add pages and contents">
+    <list default="true" id="457c019f-e33b-4f52-a8a9-821806a8213a" name="Changes" comment="chore: change some contents">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/click-and-earn.html" beforeDir="false" afterPath="$PROJECT_DIR$/click-and-earn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plug-and-earn.html" beforeDir="false" afterPath="$PROJECT_DIR$/plug-and-earn.html" afterDir="false" />
@@ -55,7 +55,8 @@
       <workItem from="1659987708892" duration="2966000" />
       <workItem from="1662021520905" duration="605000" />
       <workItem from="1662559898029" duration="15042000" />
-      <workItem from="1664009082165" duration="1364000" />
+      <workItem from="1664009082165" duration="2694000" />
+      <workItem from="1664784556076" duration="2991000" />
     </task>
     <task id="LOCAL-00001" summary="fix: footer">
       <created>1659790134507</created>
@@ -204,7 +205,49 @@
       <option name="project" value="LOCAL" />
       <updated>1662729043549</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="chore: change some contents">
+      <created>1664023609340</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1664023609340</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge branch 'dannywillems@static' of https://github.com/blockhousefr/blockhousefr.github.io into dannywillems@static">
+      <created>1664784879528</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1664784879528</updated>
+    </task>
+    <task id="LOCAL-00024" summary="chore: change some contents">
+      <created>1664785051275</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1664785051275</updated>
+    </task>
+    <task id="LOCAL-00025" summary="chore: change some contents">
+      <created>1664785409603</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1664785409603</updated>
+    </task>
+    <task id="LOCAL-00026" summary="chore: change some contents">
+      <created>1664786856919</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1664786856919</updated>
+    </task>
+    <task id="LOCAL-00027" summary="chore: change some contents">
+      <created>1664787446108</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1664787446108</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +271,8 @@
     <MESSAGE value="fix: footer, founders, offers and favicon" />
     <MESSAGE value="chore: style, content and links" />
     <MESSAGE value="feat: add pages and contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add pages and contents" />
+    <MESSAGE value="Merge branch 'dannywillems@static' of https://github.com/blockhousefr/blockhousefr.github.io into dannywillems@static" />
+    <MESSAGE value="chore: change some contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: change some contents" />
   </component>
 </project>
