@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="457c019f-e33b-4f52-a8a9-821806a8213a" name="Changes" comment="chore: change some contents">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/click-and-earn.html" beforeDir="false" afterPath="$PROJECT_DIR$/click-and-earn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plug-and-earn.html" beforeDir="false" afterPath="$PROJECT_DIR$/plug-and-earn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/premium-staking.html" beforeDir="false" afterPath="$PROJECT_DIR$/premium-staking.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +31,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/neil/Documents/Dev/nodejs/blockhousefr.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/neil/Documents/Dev/nodejs/bakingfinance&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
@@ -56,7 +53,9 @@
       <workItem from="1662021520905" duration="605000" />
       <workItem from="1662559898029" duration="15042000" />
       <workItem from="1664009082165" duration="2694000" />
-      <workItem from="1664784556076" duration="2991000" />
+      <workItem from="1664784556076" duration="3637000" />
+      <workItem from="1665041999288" duration="886000" />
+      <workItem from="1665269939627" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="fix: footer">
       <created>1659790134507</created>
@@ -247,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664787446108</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="chore: change some contents">
+      <created>1664787558567</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1664787558567</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
