@@ -4,82 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12928ab-643c-4162-aea9-b16c80b5e278" name="Changes" comment="fix: typo">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blockhousefr.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blockhousefr.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/click-and-earn.html" beforeDir="false" afterPath="$PROJECT_DIR$/click-and-earn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blockhouse-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blockhouse-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap-2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/linericon/fonts/Linearicons-Free.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/linericon/fonts/Linearicons-Free.eot?w118d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/linericon/fonts/Linearicons-Free.svg?w118d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/linericon/fonts/Linearicons-Free.ttf?w118d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/linericon/fonts/Linearicons-Free.woff2?w118d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/linericon/fonts/Linearicons-Free.woff?w118d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/themify-icons/fonts/themify.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/themify-icons/fonts/themify.eot?-fvbane" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/themify-icons/fonts/themify.svg?-fvbane" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/themify-icons/fonts/themify.ttf?-fvbane" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/themify-icons/fonts/themify.woff?-fvbane" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-brands-400.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-regular-400.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-solid-900.eot?" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/css/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner/xbanner-bg.png.pagespeed.ic.uBBpCtHGz9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner/xbanner-bg.png.pagespeed.ic.uBBpCtHGz9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner/xhero-banner.png.pagespeed.ic.O6Mh_yB3U7.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner/xhero-banner.png.pagespeed.ic.O6Mh_yB3U7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/cluster.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/cluster.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/medium-logo-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/medium-logo-white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/multisig.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/multisig.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/telegram.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/telegram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/blog/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/twitter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chains/avax.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/chains/avax.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chains/eth.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/chains/eth.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chains/polkadot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/chains/polkadot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chains/polkadot.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/chains/polkadot.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chains/tezos.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/chains/tezos.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chains/téléchargement.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/chains/téléchargement.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients-logo/c-logo-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients-logo/c-logo-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients-logo/c-logo-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients-logo/c-logo-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients-logo/xc-logo-1.png.pagespeed.ic.X22iiadN-j.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients-logo/xc-logo-1.png.pagespeed.ic.X22iiadN-j.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients-logo/xc-logo-2.png.pagespeed.ic.a-wCZmpzi2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients-logo/xc-logo-2.png.pagespeed.ic.a-wCZmpzi2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/clients-logo/xc-logo-3.png.pagespeed.ic.N7YhobdUB5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/clients-logo/xc-logo-3.png.pagespeed.ic.N7YhobdUB5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cloud-node.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/cloud-node.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/founders/daniel-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/founders/daniel-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/founders/daniel.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/founders/daniel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/founders/danny.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/founders/danny.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/founders/luca.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/founders/luca.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home/xabout.png.pagespeed.ic.jGDrXpfPy6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home/xabout.png.pagespeed.ic.jGDrXpfPy6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home/xoffer.png.pagespeed.ic.PE3eh9Lkra.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home/xoffer.png.pagespeed.ic.PE3eh9Lkra.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home/xsolution.png.pagespeed.ic.hI3RPydbL2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home/xsolution.png.pagespeed.ic.hI3RPydbL2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo/blockhouse.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo/blockhouse.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/page-thumbnail.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/page-thumbnail.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/xFevicon.png.pagespeed.ic.Rb5RM2qYh8.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/xFevicon.png.pagespeed.ic.Rb5RM2qYh8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/default.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plug-and-earn.html" beforeDir="false" afterPath="$PROJECT_DIR$/plug-and-earn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/premium-staking.html" beforeDir="false" afterPath="$PROJECT_DIR$/premium-staking.html" afterDir="false" />
-    </list>
+    <list default="true" id="e12928ab-643c-4162-aea9-b16c80b5e278" name="Changes" comment="fix: typo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +65,7 @@
       <workItem from="1664784556076" duration="3637000" />
       <workItem from="1665041999288" duration="886000" />
       <workItem from="1665269939627" duration="8000" />
-      <workItem from="1693170450431" duration="337000" />
+      <workItem from="1693170450431" duration="520000" />
     </task>
     <task id="LOCAL-00001" summary="fix: footer">
       <created>1659790134507</created>
@@ -346,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693170786396</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="fix: typo">
+      <option name="closed" value="true" />
+      <created>1693170799069</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1693170799069</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
